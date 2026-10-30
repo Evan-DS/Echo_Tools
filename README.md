@@ -6,7 +6,7 @@ A collection of 100% original, self-developed C++ utilities and tools, written e
 
 This repository contains a collection of custom C++ code developed independently for personal use, experimentation, and reuse across projects.
 
-Everything in this repository is 100% self-developed and written without AI assistance. The goal is to build and maintain a library of personally developed tools and reusable functionality.
+**100% original, self-developed code. No AI assistance.** The goal is to build and maintain a library of personally developed tools and reusable functionality.
 
 ## Contents
 
@@ -26,4 +26,4 @@ Continuous development: The collection evolves as new tools and improvements are
 
 ## Language
 
-C++
+- C++
